@@ -7,9 +7,9 @@ Assignment 2 for cis 2750.
 
 #define FAILURE 0
 #define SUCCESS 1
-#define USERNAME  "chengx"
-#define PASSWORD  "0854270"
-#define DATABASE  "chengx"
+#define USERNAME  ""
+#define PASSWORD  ""
+#define DATABASE  ""
 #define MAX_QUERY 512
 #define HOSTNAME  "dursley.socs.uoguelph.ca"
 
